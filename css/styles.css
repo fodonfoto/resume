@@ -83,6 +83,9 @@ body {
   padding-right: 1rem;
 
 }
+.far fa-futbol, .fas fa-film, .fas fa-camera, .fas fa-coffee, .fas fa-guitar, .fas fa-chalkboard-teacher, .fas fa-laptop-code {
+  font-size: 5rem;
+}
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
