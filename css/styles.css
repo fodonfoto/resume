@@ -104,9 +104,18 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
+.gender {
+  margin-bottom: 0.5rem;
+}
+.religion {
+  margin-bottom: 0.5rem;
+}
+.language {
+  margin-bottom: 1rem;
+}
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
